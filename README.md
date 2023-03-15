@@ -7,8 +7,8 @@ Good team spirit, rigorous and reactive, I know adapt me to answer the needs of 
 
 #### 📫 Connect with me:
 
-[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/alexia-froment-886241257/)</br>
-[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/alexia-froment-886241257/)</br>
+[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.aloatestesoncode.fr/)
+[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/alexia-froment-886241257/)
 [<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](mailto:aloacmoi@gmail.com)
           
 #### ⚡ Languages and Tools:
@@ -21,9 +21,10 @@ Good team spirit, rigorous and reactive, I know adapt me to answer the needs of 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642"><img src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" alt="Express.js" data-canonical-src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 
-#### 📊 Languages and Tools:
-<a href="https://github.com/AlexiaFroment/github-readme-stats"><img src="https://camo.githubusercontent.com/640f02bf93b37ac4f2b4f4991b7148e26fd6eac821e8ced51573a0598ec6ee23/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4244654d6f74266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaFroment&amp;layout=compact" style="max-width: 100%;"></a>
-<img src="https://camo.githubusercontent.com/a0b0c47a6c5c62f7ec278eb23b91f8296870f91ee0f32b7fa6378d1e282001e2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4244654d6f742673686f775f69636f6e733d74727565" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=AlexiaFroment&amp;show_icons=true" style="max-width: 100%;">
+#### 📊 GitHub Stats:
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=AlexiaFroment&amp;show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiaFroment&amp;layout=compact)
           
           
 <!--
