@@ -7,9 +7,11 @@ Good team spirit, rigorous and reactive, I know adapt me to answer the needs of 
 
 #### 📫 Connect with me:
 
-[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.aloatestesoncode.fr/)
-[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/alexia-froment-886241257/)
-[<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](mailto:aloacmoi@gmail.com)
+[<img src="https://img.icons8.com/color/48/null/internet--v1.png"/>](https://www.aloatestesoncode.fr/)
+[<img src="https://img.icons8.com/color/48/null/email.png"/>](mailto:aloacmoi@gmail.com)
+[<img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png"/>](https://www.linkedin.com/in/alexia-froment-886241257/)
+
+
           
 #### ⚡ Languages and Tools:
 
