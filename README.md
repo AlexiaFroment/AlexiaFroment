@@ -2,7 +2,7 @@
 
 #### 💬 Ask me about ...
 Curious and always in search of learning, I have just completed a 6-month full-time training course to reorient myself and become a frontend-oriented web developer.</br> Rich in this experience, I now want to specialize in application development with JavaScript and React.</br>
-🔔 I would like to continue this work-study project, <strong>I am currently looking for a partner company to welcome me as part of professionalization contract </strong> during 2 years.</br>
+🔔 I would like to continue this work-study project, <strong>I am currently looking for a partner company to welcome me as a internship contract </strong> during 2 years.</br>
 Good team spirit, rigorous and reactive, I know adapt me to answer the needs of my company.
 
 #### 📫 Connect with me:
